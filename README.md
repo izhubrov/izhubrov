@@ -5,3 +5,4 @@ I'm a beginner front-end developer from Russia, Nizhny Novgorod. I've started to
 - 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about anything...
 - 📫 How to reach me: email: izhubrov@mail.ru
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
